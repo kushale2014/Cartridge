@@ -1,0 +1,50 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="buttonEdit">resources/new.png</file>
+        <file alias="buttonDelete">resources/delete.png</file>
+        <file alias="buttonRequery">resources/update.png</file>
+        <file alias="buttonView">resources/view.png</file>
+        <file alias="buttonPrint">resources/print.png</file>
+        <file alias="buttonOk">resources/ok.png</file>
+        <file alias="buttonCancel">resources/cancel.png</file>
+        <file alias="buttonSave">resources/save.png</file>
+        <file alias="noimage">resources/noimage.png</file>
+        <file alias="buttonDown">resources/down.png</file>
+        <file alias="buttonUp">resources/up.png</file>
+        <file>resources/0364.ico</file>
+        <file>resources/0721.ico</file>
+        <file>resources/0722.ico</file>
+        <file>resources/0406.ico</file>
+        <file>resources/0415.ico</file>
+        <file>resources/0416.ico</file>
+        <file>resources/0417.ico</file>
+        <file>resources/question_blue.ico</file>
+        <file>resources/question_red.ico</file>
+        <file>resources/question_yellow.ico</file>
+        <file>resources/printer.ico</file>
+        <file>resources/0058.ico</file>
+        <file>resources/0273.ico</file>
+        <file>resources/0324.ico</file>
+        <file>resources/0328.ico</file>
+        <file>resources/0408.ico</file>
+        <file>resources/0430.ico</file>
+        <file>resources/0431.ico</file>
+        <file>resources/0432.ico</file>
+        <file>resources/0453.ico</file>
+        <file>resources/0640.ico</file>
+        <file>resources/0641.ico</file>
+        <file>resources/0642.ico</file>
+        <file>resources/0782.ico</file>
+        <file>resources/0783.ico</file>
+        <file>resources/0820.ico</file>
+        <file>resources/0822.ico</file>
+        <file>resources/0871.ico</file>
+        <file>resources/0995.ico</file>
+        <file>resources/0996.ico</file>
+        <file>resources/1008.ico</file>
+        <file>resources/1010.ico</file>
+        <file>resources/1116.ico</file>
+        <file>resources/1133.ico</file>
+        <file>resources/1301.ico</file>
+    </qresource>
+</RCC>
